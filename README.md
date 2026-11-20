@@ -60,4 +60,4 @@ Security Researchers: Dedicated to the white-hat hackers who work to build a saf
 
 Thank you for checking out AEGIS-AI! This tool was engineered to bridge the gap between mathematical entropy and practical defense logic. If you find this tool useful for your security audits or research, feel free to leave a ⭐.
 
-Developed with passion for a safer web by Harutyun.K1 🚀
+Developed with passion for a safer web by HarutyunK0 🚀
